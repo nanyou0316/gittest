@@ -1,1 +1,1 @@
-console.log(2);
+console.log('我是b分支');
